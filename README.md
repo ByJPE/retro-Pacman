@@ -14,7 +14,7 @@ Jeu de labyrinthe type Pac-Man en un seul fichier HTML, jouable sur ordinateur e
 - Smartphone : glisser le doigt dans la direction voulue
 
 ## Lancer
-Ouvrir `index.html` dans un navigateur, ou GitHub Pages : 
+Ouvrir `index.html` dans un navigateur, ou GitHub Pages : https://byjpe.github.io/retro-Pacman/
 
 ## Licence
 MIT
